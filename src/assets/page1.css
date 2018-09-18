@@ -1,0 +1,88 @@
+p{
+  font-size: 20px;
+}
+.page1{
+  display: inline-block;
+  width: 90%;
+  height: 100%;
+  vertical-align: top;
+}
+.nav>span{
+  width: 50px;
+  display: inline-block;
+  text-align: center;
+  font-size: 14px;
+  line-height: 50px;
+}
+.le{
+  width: 50%;
+}
+.page1>div{
+  display: inline-block;
+}
+.act_nav{
+  border-bottom: 2px solid #0186E0;
+}
+.nav>span{
+  cursor: pointer;
+}
+.list1 td,.list1 td *{
+  font-size: 12px;
+  text-align: center;
+  line-height: 30px;
+}
+.list1 tr{
+  border-bottom: 1px solid #666666;
+}
+.list1>table{
+  border-collapse: collapse;
+  width: 100%;
+}
+.list1 td span{
+  margin-right: 10px;
+  color: #0186E0;
+  cursor: pointer;
+}
+.list1>p>button{
+  font-size: 16px;
+  background: mediumspringgreen;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  padding: 2.5px 7px;
+}
+.list1>p{
+  text-align: center;
+  margin-top: 20px;
+}
+.list1>p>button:last-of-type{
+margin-left: 10px;
+}
+.ri{
+  width: 50%;
+  height: 100%;
+  vertical-align: top;
+  background: #ECF3F6;
+}
+.ri>div>p{
+  font-size: 18px;
+  background: #F5F8F8;
+  height: 40px;
+  line-height: 40px;
+  padding-left: 10px;
+}
+.shop_list>span{
+  border: 1px solid #999999;
+  background: #ffffff;
+  padding: 5px 10px;
+  margin-right: 20px;
+  margin-top: 20px;
+  display: inline-block;
+  cursor: pointer;
+}
+.shop_list{
+  padding: 30px 10px;
+}
+.shop_list>span>span{
+  color: #15a9e0;
+}
